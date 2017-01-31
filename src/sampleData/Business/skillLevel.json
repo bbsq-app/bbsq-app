@@ -1,0 +1,19 @@
+[
+	
+			{
+				"name": "Beginner",
+				"totalcourse": 408
+			},
+			{
+				"name": "Intermediate",
+				"totalcourse": 348
+			},
+			{
+				"name": "Advanced",
+				"totalcourse": 241
+			},
+			{
+				"name": "All Levels",
+				"totalcourse": 231
+			}
+]

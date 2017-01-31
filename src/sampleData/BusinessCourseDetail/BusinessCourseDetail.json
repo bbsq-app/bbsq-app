@@ -1,0 +1,74 @@
+[
+	
+			{
+				"coursename":"Excel 2010: Advanced Formulas and Functions",
+				"category": "Advanced",
+				"totaltime":"5h 17m",
+				"totalvisit":4758,
+				"intro":"In Excel 2010: Advanced Formulas and Functions, author Dennis Taylor says Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.",
+				"topics":[
+							 {"topic":"Referincing, copying, updating and converting formulas"},
+							 {"topic":"Using the logical functions and creating compound logic tests"},
+							 {"topic":"Reconfiguring cell data using text functions"}
+						 ],		 
+				"audience":"Employees in administrative support positions,as well as individuals who want to advance their Mocrosoft skills.",
+				"coursecode":"718-535-001",
+				"subjects":[							
+							    {"label":"Business"},
+								{"label":"Spreadsheets"},
+								{"label":"Spread"}
+							],
+						
+						
+				"software":[							
+							    {"label":"Excel"},
+								{"label":"Office"}
+								
+							],
+				"author":"Skillsoft",
+				"deliverytype":"Web Based Training"
+
+			},
+			{
+				"coursename":"Excel 2007: Advanced Formulas and Functions",
+				"category": "Advanced",
+				"totaltime":"4h 38m",
+				"totalvisit":475,
+				"intro":"In Excel 2010: Advanced Formulas and Functions, author Dennis Taylor says Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.",
+				"topics": "Referincing,copying,updating",
+				"audience":"Employees in administrative support positions,as well as individuals who want to advance their Mocrosoft skills.",
+				"coursecode":"718-535-001",
+				"subjects":"Business",
+				"software":"Excel",
+				"author":"Skillsoft",
+				"deliverytype":"Instructor Led"
+			},
+			{
+				"coursename":"Excel 2013: Managing and Analyzing data",
+				"category": "Intermediate",
+				"totaltime":"5h 17m",
+				"totalvisit":758,
+				"intro":"In Excel 2010: Advanced Formulas and Functions, author Dennis Taylor says Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.",
+				"topics": "Referincing,copying,updating",
+				"audience":"Employees in administrative support positions,as well as individuals who want to advance their Mocrosoft skills.",
+				"coursecode":"718-535-001",
+				"subjects":"Business",
+				"software":"Excel",
+				"author":"Skillsoft",
+				"deliverytype":"Web Based Training"
+			},
+			{
+				"coursename":"Up and Running with VBA in Access",
+				"category": "Advanced",
+				"totaltime":"5h 17m",
+				"totalvisit":478,
+				"intro":"In Excel 2010: Advanced Formulas and Functions, author Dennis Taylor says Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.",
+				"topics": "Referincing,copying,updating",
+				"audience":"Employees in administrative support positions,as well as individuals who want to advance their Mocrosoft skills.",
+				"coursecode":"718-535-002",
+				"subjects":"Business",
+				"software":"Excel",
+				"author":"Skillsoft",
+				"deliverytype":"Web Based Training"
+			}
+]

@@ -1,0 +1,35 @@
+{
+	"data": {
+		"#" : [
+			{
+				"coursename":"2D Drawing",
+				"totalcourse":33
+			},
+			{
+				"coursename":"3D Animation",
+				"totalcourse":217
+			},
+			{
+				"coursename":"3D Drawing",
+				"totalcourse":42
+			}
+		],
+
+
+		"A" : [
+			{
+				"coursename":"Accessibility",
+				"totalcourse":3
+			},
+			{
+				"coursename":"Accounting",
+				"totalcourse":13
+			},
+			{
+				"coursename":"Acoustics",
+				"totalcourse":42
+			}
+		]
+		
+	}
+}

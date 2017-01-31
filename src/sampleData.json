@@ -1,0 +1,57 @@
+[
+	
+			{
+				"category": "#",
+				"coursename":"2D Drawing",
+				"totalcourse":33,
+				"stocked": true
+			},
+			{
+				"category": "#",
+				"coursename":"3D Animation",
+				"totalcourse":217,
+				"stocked": true
+			},
+			{
+				"category": "#",
+				"coursename":"3D Drawing",
+				"totalcourse":42,
+				"stocked": false
+			},		
+			{
+				"category": "A",
+				"coursename":"Accessibility",
+				"totalcourse":3,
+				"stocked": true
+			},
+			{
+				"category": "A",
+				"coursename":"Accounting",
+				"totalcourse":13,
+				"stocked": true
+			},
+			{
+				"category": "A",
+				"coursename":"Acoustics",
+				"totalcourse":42,
+				"stocked": true
+			},
+			{
+				"category": "B",
+				"coursename":"BIM",
+				"totalcourse":21,
+				"stocked": false
+			},
+			{
+				"category": "B",
+				"coursename":"Blogs",
+				"totalcourse":40,
+				"stocked": false
+			},
+			{
+				"category": "B",
+				"coursename":"Branding",
+				"totalcourse":3,
+				"stocked": false
+			}
+]

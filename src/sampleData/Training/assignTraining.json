@@ -1,0 +1,75 @@
+[
+	
+			{
+				"jobtitle":"Excel 2010: Advanced Formulas and Functions",
+				"employee":"Adam",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Up and Running with VBA in Access",
+				"employee":"Alexey",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Up and Running with Excel Cluster Analysis",
+				"employee":"Brett",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Up and Running with Tableau",
+				"employee":"Brian",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Up and Running with VBA in Excel",
+				"employee":"Chris",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013: Advanced Formulas and Functions",
+				"employee":"Clayton",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"FileMaker Pro 12 in Depth",
+				"employee":"Ish",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013: Managing and Analyzing Data",
+				"employee":"Jordan",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013:Data Validation in depth",
+				"employee":"Morgan",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013:Working with Date and Times",
+				"employee":"Rad",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013: Test1",
+				"employee":"Mark",
+				"team":"HR Web & Systems Development"
+
+			},
+			{
+				"jobtitle":"Excel 2013: Test2",
+				"employee":"Michael",
+				"team":"HR Web & Systems Development"
+
+			}
+]

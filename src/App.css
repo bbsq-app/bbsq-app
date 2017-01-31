@@ -1,0 +1,185 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+.nav.nav-tabs {
+  padding-left: 10%;
+}
+
+.navbar.navbar-default {
+  padding-top: 0px;
+}
+
+.btn-toolbar {
+  
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+th {
+    text-align: left;
+}
+td {
+    text-align: left;
+}
+
+.btn.btn-default{
+  padding-right: 15.7px;
+  padding-left : 15.7px;
+}
+
+.hideHash-true  {
+  display: none;
+}
+.hideA-true  {
+  display: none;
+} 
+.hideB-true  {display: none; } .hideC-true  {display: none; } .hideD-true{display: none;} .hideE-true{display: none;} .hideF-true{display: none;} .hideG-true{display: none;} .hideH-true{display: none;} .hideI-true{display: none;} .hideJ-true{display: none;} .hideK-true{display: none;} .hideL-true{display: none;} .hideM-true{display: none;} .hideN-true{display: none;} .hideO-true{display: none;} .hideP-true{display: none;} .hideQ-true{display: none;} .hideR-true{display: none;} .hideS-true{display: none;} .hideT-true{display: none;} .hideU-true{display: none;} .hideV-true{display: none;} .hideW-true{display: none;} .hideX-true{display: none;} .hideY-true{display: none;} .hideZ-true{display: none;}
+
+.form-control{
+  width: 100%;
+
+}
+
+.breadcrumb {
+  background-color: #FFFFFF;
+}
+.spaced:before{
+  content: "\00a0 \00a0 ";
+  
+}
+.verticalLine {
+    border-left: thin solid #808EA3;
+    height: 780px;
+    position: absolute;
+    left: 15px;
+}
+@media only screen and (max-width: 500px) {
+    .verticalLine {
+    border-left: thin solid #808EA3;
+    height: 950px;
+    position: absolute;
+    left: 15px;
+  }
+}
+.marginBox{
+  padding: 19px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+}
+.table{
+  margin-bottom: 0px;
+}
+.exportPDF{
+  padding-right: 9px;
+  padding-left: 9px;
+  word-spacing: -10px;
+
+}
+
+.btn.btn-success.hidden-print{
+  padding: 6px 9px;
+  
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 14px; 
+}
+
+.form-group.form-group-sm.react-bs-table-search-form{
+  padding-top: 4px;
+
+}
+.react-bs-table-tool-bar{
+  margin-left: 125px;
+  margin-top: -34px;
+}
+
+.myTeam{
+  float: right;
+  margin:1px;
+}
+.greyColor{
+  float: right;
+  margin:1px;
+  background-color: grey;
+  color: white;
+}
+
+.moveRight{
+  float: right;
+}
+
+.exportReport{
+  
+  padding-right: 9px;
+  padding-left: 9px;
+  word-spacing: -10px;
+
+}
+
+.breadcrumb{
+  padding-left: 0px;
+}
+.textSize{
+  font-size: 18px;
+}
+
+.report{
+  width: 20%;
+  float: right;
+  margin-left: 5px;
+}
+@media only screen and (max-width: 500px) {
+  .report{
+    width: 45%;
+    float: right;
+    margin-left: 5px;
+}
+}
+
+
+.trainingDropdown{
+  width: 20%;
+  float: left;
+  
+}
+@media only screen and (max-width: 500px) {
+  .trainingDropdown{
+    width: 50%;
+    float: left;
+  
+  }
+}
+
+.labelLeft{
+  float: left;
+}

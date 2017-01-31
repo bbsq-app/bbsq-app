@@ -1,0 +1,25 @@
+[
+	
+			{
+				"startdate":"Nov 15 2016",
+				"timezone":"Toronto (EST -5)",
+				"location":"Mississauga - Tahoe",
+				"seats":"3/15",
+				"price":0
+
+			},
+			{
+				"startdate":"Nov 23 2016",
+				"timezone":"Toronto (EST -5)",
+				"location":"WAT C - Waterloo",
+				"seats":"15/15",
+				"price":0
+			},
+			{
+				"startdate":"Dec 8 2016",
+				"timezone":"Toronto (EST -5)",
+				"location":"WAT C - Waterloo",
+				"seats":"15/15",
+				"price":0
+			}
+]
